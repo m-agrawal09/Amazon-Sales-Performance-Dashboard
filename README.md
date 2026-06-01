@@ -115,5 +115,5 @@ This dashboard helps stakeholders monitor performance and make data-driven decis
 
 ## Author
 
-**Medhavi Agrawal**
+**Medhavi Agrawal** <br>
 Aspiring Data Analyst | Power BI | SQL | Excel
